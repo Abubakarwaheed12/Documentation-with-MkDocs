@@ -5,3 +5,10 @@ nav:
     - API: API.md
     - About: about.md
     - Community: Community.md
+    
+theme:
+    name: mkdocs
+    custom_dir: custom_theme/
+    footer:  custom_theme/custom_template.html
+
+
