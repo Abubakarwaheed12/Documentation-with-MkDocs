@@ -1,0 +1,7 @@
+site_name: Mydocs
+
+nav:
+    - Home: index.md
+    - API: API.md
+    - About: about.md
+    - Community: Community.md
